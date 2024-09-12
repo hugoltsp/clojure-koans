@@ -29,6 +29,8 @@ pom.xml.asc
 Icon
 
 
+.calva/
+
 # Thumbnails
 ._*
 
